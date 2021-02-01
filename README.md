@@ -2,7 +2,7 @@
 
 ## To clone this repo 
 
-` git clone https://github.com/dhruvpatel44/EKF.git `
+` https://github.com/ruvate/extended.kalman.filter.git `
 
 
 In this project, we look at how one-dimensional *Kalman Filter* works. The problem we would look over in this project can be thought of as a target tracking problem in one-dimensional space.
